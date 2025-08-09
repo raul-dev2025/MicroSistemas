@@ -34,6 +34,9 @@ Periféricos
 - **RATÓN** HP X1500 Ratón Negro USB 2.99€.
 - **ALTAVOCES** Hama Altavoz Sonic Mobil 183 2.0 USB Negros 9.29€.
 
+**TOTAL**: 455,20€
+
+-----
 
 2ª Aplicaciones de renderizado 3D
 --------------------------------------
